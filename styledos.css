@@ -1,0 +1,79 @@
+.nav{
+    background-color:azure;
+    height: 10%;
+}
+
+.foto{
+    background-color: azure;
+    height: 70%;
+    padding: 0;
+    margin: 0;
+}
+
+.marca{
+    background-color: azure;
+    height: 20%;
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: none;
+    padding-top: 5%;
+}
+
+.principal {
+    background-color: brown;
+    height: 40%;
+}
+
+.nosotros{
+    background-color: cadetblue;
+    height: 15%;
+}
+
+.fotodos{
+    background-color: darkolivegreen;
+    height: 60%;
+}
+
+.pie{
+    background-color: cornflowerblue;
+    height: 15%;
+}
+.izq{
+    background-color: azure;
+}
+
+.der {
+    background-color: azure;
+}
+
+.venta{
+    background-color: darkmagenta;
+}
+
+.mapa{
+    background-color: chartreuse;
+}
+
+.fotoplaya{
+    background-color: darkorchid;
+}
+
+.fotonoche{
+    background-color: rgb(203, 34, 113);
+}
+
+.ig{
+    background-color: aquamarine;
+}
+
+.linkedin{
+    background-color: blueviolet;
+}
+
+.wpp{
+    background-color: brown;
+}
+
+@media screen {
+    
+}
