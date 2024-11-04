@@ -2,7 +2,7 @@ html{
     scroll-behavior:smooth; 
 }
 
-body{
+*{
     margin: 0;
     padding: 0;
    
@@ -89,11 +89,12 @@ body{
 .linkedin{
     background-color: azure;
     text-align: center;
+    padding-top: 10px;
 }
 
 .wpp{
     background-color: azure;
-    text-align: center;
+    text-align: left;
 }
 
 
