@@ -110,6 +110,19 @@ h4{
     color: rgb(9, 137, 235);
     padding-top: 30px; 
 }
-@media screen {
-    
+@media only screen and (max-width:480px)
+{
+.marca {
+     background-color: azure;
+     color: rgb(71, 162, 179);
+    }
+
+h4{
+    text-align: center;
+    }
+.der{
+    visibility: hidden;
+} 
 }
+
+    
