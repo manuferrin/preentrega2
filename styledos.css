@@ -81,20 +81,25 @@ html{
     padding-left: 30px;
 }
 
+ 
+
 .ig{
     background-color: azure;
     text-align: center;
+    
 }
 
 .linkedin{
     background-color: azure;
     text-align: center;
-    padding-top: 10px;
+  
 }
 
 .wpp{
     background-color: azure;
-    text-align: left;
+    text-align: center;
+    
+  
 }
 
 
@@ -127,6 +132,7 @@ h4{
 h1{
     font-size: x-small;
 }
+
 }
 
     
